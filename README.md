@@ -42,7 +42,7 @@ A report of findings is located in [Analysis.md](./Analysis.md).
 
 **Glimpse of Visualizations:**
 
-![Map](images/full_map)
+![Map](images/full_map.png)
 
-![Peak Bike Stations](images/bike_stations)
+![Peak Bike Stations](images/bike_stations.png)
 

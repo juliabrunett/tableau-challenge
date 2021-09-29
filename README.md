@@ -4,7 +4,8 @@ This project involved extracting *NYC Citi Bike datasets* from [Citi Bike](https
 
 View this project on my [Tableau Story](https://public.tableau.com/app/profile/julia.brunett1429/viz/CitiBikeAnalysis_16279470544550/CitiBikeAnalysis).
 
-A report of findings is located in [Analysis.md](./Analysis.md).
+A report of findings is located in [Analysis.md](./Analysis.md):
+![Report](images/report_screenshot.png)
 
 
 **Some of the questions answered include:**

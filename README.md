@@ -41,6 +41,8 @@ A report of findings is located in [Analysis.md](./Analysis.md).
 <hr>
 
 **Glimpse of Visualizations:**
+
 ![Map](images/full_map)
+
 ![Peak Bike Stations](images/bike_stations)
 

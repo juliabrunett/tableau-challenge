@@ -2,7 +2,7 @@
 # NYC Citi Bike Analysis:
 This project involved extracting *NYC Citi Bike datasets* from [Citi Bike](https://ride.citibikenyc.com/system-data) and using Tableau to visualize and determine answers to company leadership questions. The data was extracted from this [website](https://ride.citibikenyc.com/system-data), cleaned and transformed in a Jupyter Notebook using Python and Pandas, and pushed out to a combined csv to then load into Tableau. The datasets used are not included in this folder due to storage space, but can be downloaded from the [website](https://ride.citibikenyc.com/system-data) directly, if you would like to replicate this project for your own analysis.
 
-View this project on my [Tableau Story](https://public.tableau.com/app/profile/julia.brunett1429/viz/CitiBikeAnalysis_16279470544550/CitiBikeAnalysis![image](https://user-images.githubusercontent.com/77695682/135337130-a5d9b87a-8e1a-4be0-8a03-1588d48bc123.png))
+View this project on my [Tableau Story](https://public.tableau.com/app/profile/julia.brunett1429/viz/CitiBikeAnalysis_16279470544550/CitiBikeAnalysis).
 
 A report of findings is located in [Analysis.md](tableau-challenge/Analysis.md)
 

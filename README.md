@@ -7,7 +7,7 @@ View this project on my [Tableau Story](https://public.tableau.com/app/profile/j
 
 A report of findings is located in [Analysis.md](./Analysis.md).
 
-
+<hr>
 
 **Some of the questions answered include:**
 * How many trips have been recorded total during the chosen period?
@@ -28,6 +28,7 @@ A report of findings is located in [Analysis.md](./Analysis.md).
 
 * How does the average trip duration change by age?
 
+<hr>
 
 **Datasets Downloaded:** (3 months of Summer 2019 & 3 months of Winter 2019-2020)
 - 201906-citibike-tripdata.csv
@@ -37,4 +38,8 @@ A report of findings is located in [Analysis.md](./Analysis.md).
 - 202001-citibike-tripdata.csv
 - 202002-citibike-tripdata.csv
 
+<hr>
+**Glimpse of Visualizations:**
+![Map](images/full_map)
+![Peak Bike Stations](images/bike_stations)
 

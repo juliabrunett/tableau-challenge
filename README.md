@@ -39,6 +39,7 @@ A report of findings is located in [Analysis.md](./Analysis.md).
 - 202002-citibike-tripdata.csv
 
 <hr>
+
 **Glimpse of Visualizations:**
 ![Map](images/full_map)
 ![Peak Bike Stations](images/bike_stations)

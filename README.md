@@ -4,7 +4,8 @@ This project involved extracting *NYC Citi Bike datasets* from [Citi Bike](https
 
 View this project on my [Tableau Story](https://public.tableau.com/app/profile/julia.brunett1429/viz/CitiBikeAnalysis_16279470544550/CitiBikeAnalysis).
 
-A report of findings is located in [Analysis.md](tableau-challenge/Analysis.md)
+A report of findings is located in [Analysis.md](./Analysis.md).
+
 
 **Some of the questions answered include:**
 * How many trips have been recorded total during the chosen period?
@@ -24,6 +25,7 @@ A report of findings is located in [Analysis.md](tableau-challenge/Analysis.md)
 * What is the gender breakdown of active participants?
 
 * How does the average trip duration change by age?
+
 
 **Datasets Downloaded:** (3 months of Summer 2019 & 3 months of Winter 2019-2020)
 - 201906-citibike-tripdata.csv
